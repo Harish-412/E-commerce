@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/E-commerce/static/css/main.c6675767.css",
+    "main.css": "/E-commerce/static/css/main.310d72b7.css",
     "main.js": "/E-commerce/static/js/main.62cc7f36.js",
     "static/media/samsung s23.png": "/E-commerce/static/media/samsung s23.39e5082aa1274f81a41e.png",
     "static/media/jblspeaker.png": "/E-commerce/static/media/jblspeaker.0f5d6ae16505bfeecc12.png",
@@ -13,11 +13,11 @@
     "static/media/boat-rockerz-518.webp": "/E-commerce/static/media/boat-rockerz-518.9042596f66a546729160.webp",
     "static/media/nothing phone.webp": "/E-commerce/static/media/nothing phone.083589483ef52d63e8d5.webp",
     "index.html": "/E-commerce/index.html",
-    "main.c6675767.css.map": "/E-commerce/static/css/main.c6675767.css.map",
+    "main.310d72b7.css.map": "/E-commerce/static/css/main.310d72b7.css.map",
     "main.62cc7f36.js.map": "/E-commerce/static/js/main.62cc7f36.js.map"
   },
   "entrypoints": [
-    "static/css/main.c6675767.css",
+    "static/css/main.310d72b7.css",
     "static/js/main.62cc7f36.js"
   ]
 }
